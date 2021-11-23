@@ -18,7 +18,8 @@ body h2,h3
 .intro_btn button {
   width: 140px;
   height: 45px;
-  font-size: 20px;
+  font-size: 30px;
+  font-family: 'Dongle', sans-serif;
   cursor: pointer;
   border: none;
   outline: none;
@@ -146,7 +147,7 @@ body h2,h3
 }
 
 .card_btn:active svg {
- transform: scale(0.9);
+ transform: scale(1.5);
 }
 
 .hover-underline-animation {
@@ -172,19 +173,7 @@ body h2,h3
  transform: scaleX(1);
  transform-origin: bottom left;
 }
-  /* Footer Icon */
-.f_icon {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
- 
-  text-decoration: none;
-  margin: 5px 2px;
-  text-shadow: black;
- 
-  align-content: center;
-  align-items: center;
-}
+
 
 
 
